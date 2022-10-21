@@ -1,5 +1,5 @@
 function calculateSum(num1, num1) {
-    let result = (num1 - 0) + (num1 - 0);
+    let result = (num1 + 0) + (num2 + 0);
     console.log(result);
     console.log(typeof(result));
     return result;
