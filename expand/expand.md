@@ -1,0 +1,5 @@
+1. 
+   1. Loose Typing: As a programmer who started in Java and C++ before moving on to python, I understood that not having a set type for a variable causes immense uncertainties and margin for error. This also made it hard for other programmers to track your code. 
+   2. Asynchronous nature: Similar to the point above, having uncertainties in the code, in this case, not knowing exactly the order of operations due to the async nature, creates stress and ambiguity inside the program. This made it hard for programmer to assess the capabilities of the code as they have to take into account real-world issues.
+   3. Continuing from the real world issues described above, coding in Javascript meant that the language is largely bounded in a webpage environment, which dictates that it will be easily influenced by web speed and responsiveness. As the responsiveness in each customer is not the same, ambiguity is created. 
+2. 
